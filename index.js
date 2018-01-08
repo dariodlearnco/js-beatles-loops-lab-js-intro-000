@@ -4,5 +4,5 @@ function theBeatlesPlay(musicians, instruments) {
         theBeatles.push(i)
         theBeatles.push(`${musicians[i]} plays ${instruments[i]}`)
     }
-    return musicians
+    return theBeatles
 }
